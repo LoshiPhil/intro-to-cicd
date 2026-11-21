@@ -1,6 +1,6 @@
 // Here is a comment
 function sayHi(name) {
-  return `Helly ${name}`
+  return `Hello ${name}`
 
 }
 
